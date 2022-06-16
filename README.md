@@ -9,6 +9,9 @@ My name is Ivan and this is my Git Hub page.
 
 ## My apps
 
-* [CSS Mem Slider](https://legat14.github.io/cssMemSlider/)
+* [Sea Fight](https://legat14.github.io/sea_fight/) (the game)
+* [Harmonica on-line](https://legat14.github.io/JS_30_Harp/)
 * [Virtual Keyboard](https://legat14.github.io/virtual_keyboard/)
 * [Movie App](https://legat14.github.io/movie_app/)
+* [CSS Mem Slider](https://legat14.github.io/cssMemSlider/)
+* [One more CSS Mem Slider](https://legat14.github.io/cssMemSlider-1/)
