@@ -5,9 +5,12 @@ My name is Ivan and this is my Git Hub page.
 ## IT Education
 
 * November 2021 - February 2022 - **Rolling Scopes School Front-End Stage 0**
-[(Stage 0 Certificate)](https://app.rs.school/certificate/9rfq3x9e)
+[(JS/FE Pre-School certificate)](https://app.rs.school/certificate/9rfq3x9e)
 * March 2022 - June 2022 - **Rolling Scopes School Front-End Stage 1**
 * June 2022 - September 2022 - **Rolling Scopes School Front-End Stage 2**
+[(JS/FE certificate)](https://app.rs.school/certificate/8pk8i88z)
+
+Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-9f97-299fb10eb925)
 
 ## My apps
 
@@ -64,5 +67,3 @@ My name is Ivan and this is my Git Hub page.
 ### [CSS Mem Slider](https://legat14.github.io/cssMemSlider/)
 
 ![CSS Mem Slider](https://github.com/Legat14/Legat14/blob/main/img/css_mem_slider_screenshot.jpg?raw=true)
-
-### [One more CSS Mem Slider](https://legat14.github.io/cssMemSlider-1/)
