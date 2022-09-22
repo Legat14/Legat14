@@ -39,9 +39,37 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 
 ![Online store](https://github.com/Legat14/Legat14/blob/main/img/online_store_screenshot.JPG?raw=true)
 
+[Repo](https://github.com/Legat14/online-store/)
+
+[Deploy](https://legat14-online-store.netlify.app/)
+
+#### Role:
+Developer
+
+#### Technology:
+* HTML
+* TypeScript
+* Webpack
+* SASS
+* ESLint with eslint recommended configuration
+
 ### Async race
 
 ![Async Race](https://github.com/Legat14/Legat14/blob/main/img/async_race_screenshot.JPG?raw=true)
+
+[Repo](https://github.com/Legat14/async-race/)
+
+[Deploy](https://legat-14-async-race.netlify.app/)
+
+#### Role:
+Developer
+
+#### Technology:
+* HTML
+* TypeScript
+* Webpack
+* SASS
+* ESLint with airbnb configuration
 
 ### Movie App
 
@@ -126,6 +154,18 @@ Developer
 ### Shelter (website)
 
 ![Shelter website](https://github.com/Legat14/Legat14/blob/main/img/shelter_screenshot.jpg?raw=true)
+
+[Repo](https://github.com/Legat14/shelter/)
+
+[Deploy](https://rolling-scopes-school.github.io/legat14-JSFE2022Q1/shelter/pages/main/index.html)
+
+#### Role:
+Developer
+
+#### Technology:
+* HTML
+* CSS
+* JavaScript
 
 ### CSS Mem Slider
 
