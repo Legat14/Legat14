@@ -35,6 +35,9 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 * ESLint with airbnb configuration
 * Tone.js
 
+<details>
+  <summary>Online store<summary>
+
 ### Online store
 
 ![Online store](https://github.com/Legat14/Legat14/blob/main/img/online_store_screenshot.JPG?raw=true)
@@ -52,6 +55,10 @@ Developer
 * Webpack
 * SASS
 * ESLint with eslint recommended configuration
+</details>
+
+<details>
+  <summary>Async race<summary>
 
 ### Async race
 
@@ -70,9 +77,12 @@ Developer
 * Webpack
 * SASS
 * ESLint with airbnb configuration
+</details>
 
+<details>
+  
 ### Movie App
-
+  <summary>Movie App<summary>
 ![Movie App](https://github.com/Legat14/Legat14/blob/main/img/movie_app_screenshot.jpg?raw=true)
 
 [Repo](https://github.com/Legat14/movie_app)
@@ -86,7 +96,10 @@ Developer
 * HTML
 * CSS
 * JavaScript
+</details>
 
+<details>
+  <summary>Sea Fight<summary>
 ### Sea Fight (the game)
 
 ![Sea Fight](https://github.com/Legat14/Legat14/blob/main/img/sea_fight_screenshot.jpg?raw=true)
@@ -102,6 +115,10 @@ Developer
 * HTML
 * CSS
 * JavaScript
+</details>
+
+<details>
+  <summary>Virtual Keyboard<summary>
 
 ### Virtual Keyboard
 
@@ -118,6 +135,10 @@ Developer
 * HTML
 * SCSS
 * JavaScript
+</details>
+
+<details>
+  <summary>Harmonica on-line<summary>
 
 ### Harmonica on-line
 
@@ -134,6 +155,10 @@ Developer
 * HTML
 * CSS
 * JavaScript
+</details>
+
+<details>
+  <summary>Portfolio (website)<summary>
 
 ### Portfolio (website)
 
@@ -150,6 +175,10 @@ Developer
 * HTML
 * CSS
 * JavaScript
+</details>
+
+<details>
+  <summary>Shelter (website)<summary>
 
 ### Shelter (website)
 
@@ -166,6 +195,10 @@ Developer
 * HTML
 * CSS
 * JavaScript
+</details>
+
+<details>
+  <summary>CSS Mem Slider<summary>
 
 ### CSS Mem Slider
 
@@ -181,3 +214,4 @@ Developer
 #### Technology:
 * HTML
 * CSS
+</details>
