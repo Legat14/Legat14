@@ -36,7 +36,7 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 * Tone.js
 
 <details>
-  <summary>Online store<summary>
+  <summary>Online store</summary>
 
 ### Online store
 
@@ -58,7 +58,7 @@ Developer
 </details>
 
 <details>
-  <summary>Async race<summary>
+  <summary>Async race</summary>
 
 ### Async race
 
@@ -80,9 +80,9 @@ Developer
 </details>
 
 <details>
-  
+  <summary>Movie App</summary>
+
 ### Movie App
-  <summary>Movie App<summary>
 ![Movie App](https://github.com/Legat14/Legat14/blob/main/img/movie_app_screenshot.jpg?raw=true)
 
 [Repo](https://github.com/Legat14/movie_app)
@@ -99,7 +99,8 @@ Developer
 </details>
 
 <details>
-  <summary>Sea Fight<summary>
+  <summary>Sea Fight</summary>
+
 ### Sea Fight (the game)
 
 ![Sea Fight](https://github.com/Legat14/Legat14/blob/main/img/sea_fight_screenshot.jpg?raw=true)
@@ -118,7 +119,7 @@ Developer
 </details>
 
 <details>
-  <summary>Virtual Keyboard<summary>
+  <summary>Virtual Keyboard</summary>
 
 ### Virtual Keyboard
 
@@ -138,7 +139,7 @@ Developer
 </details>
 
 <details>
-  <summary>Harmonica on-line<summary>
+  <summary>Harmonica on-line</summary>
 
 ### Harmonica on-line
 
@@ -158,7 +159,7 @@ Developer
 </details>
 
 <details>
-  <summary>Portfolio (website)<summary>
+  <summary>Portfolio (website)</summary>
 
 ### Portfolio (website)
 
@@ -178,7 +179,7 @@ Developer
 </details>
 
 <details>
-  <summary>Shelter (website)<summary>
+  <summary>Shelter (website)</summary>
 
 ### Shelter (website)
 
@@ -198,7 +199,7 @@ Developer
 </details>
 
 <details>
-  <summary>CSS Mem Slider<summary>
+  <summary>CSS Mem Slider</summary>
 
 ### CSS Mem Slider
 
