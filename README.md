@@ -15,6 +15,9 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 
 ## My apps
 
+<details open="open">
+  <summary>Perfect Ear</summary>
+
 ### Perfect Ear
 
 ![Perfect Ear](https://github.com/Legat14/Legat14/blob/main/img/perfect_ear_screenshot.jpg?raw=true)
@@ -34,6 +37,7 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 * SASS
 * ESLint with airbnb configuration
 * Tone.js
+</details>
 
 <details>
   <summary>Online store</summary>
