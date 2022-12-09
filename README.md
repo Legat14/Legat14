@@ -4,16 +4,44 @@ My name is Ivan and this is my GitHub profile.
 
 ## IT Education
 
-* November 2021 - February 2022 - **Rolling Scopes School Front-End Stage 0**
-[(JS/FE Pre-School certificate)](https://app.rs.school/certificate/9rfq3x9e)
-* March 2022 - June 2022 - **Rolling Scopes School Front-End Stage 1**
-* June 2022 - September 2022 - **Rolling Scopes School Front-End Stage 2**
-[(JS/FE certificate)](https://app.rs.school/certificate/8pk8i88z)
-Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-9f97-299fb10eb925)
-* Currently on **Rolling Scopes School React** course
-[(React course)](https://rs.school/react/)
+- November 2021 - February 2022 - **Rolling Scopes School Front-End Stage 0**
+  [(JS/FE Pre-School certificate)](https://app.rs.school/certificate/9rfq3x9e)
+- March 2022 - June 2022 - **Rolling Scopes School Front-End Stage 1**
+- June 2022 - September 2022 - **Rolling Scopes School Front-End Stage 2**
+  [(JS/FE certificate)](https://app.rs.school/certificate/8pk8i88z)
+  Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-9f97-299fb10eb925)
+- Currently on **Rolling Scopes School React** course
+  [(React course)](https://rs.school/react/)
 
 ## My apps
+
+<details open="open">
+  <summary>Project management app</summary>
+
+### Project management app
+
+![Project management app](https://github.com/Legat14/Legat14/blob/main/img/project_management_app_screenshot.jpg?raw=true)
+
+[Repo](https://github.com/Legat14/project-management-app)
+
+[Deploy](https://legat14-project-management-app.netlify.app/)
+
+#### Role:
+
+- Team lead
+- Frontend
+
+#### Technology:
+
+- React
+- Redux
+- Material UI
+- Axios
+- TypeScript
+- Webpack
+- SASS
+- ESLint with airbnb configuration
+</details>
 
 <details open="open">
   <summary>Perfect Ear</summary>
@@ -27,16 +55,18 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 [Deploy](https://perfect-ear.netlify.app/)
 
 #### Role:
-* Team lead
-* Frontend
+
+- Team lead
+- Frontend
 
 #### Technology:
-* HTML
-* TypeScript
-* Webpack
-* SASS
-* ESLint with airbnb configuration
-* Tone.js
+
+- HTML
+- TypeScript
+- Webpack
+- SASS
+- ESLint with airbnb configuration
+- Tone.js
 </details>
 
 <details>
@@ -51,14 +81,16 @@ Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-
 [Deploy](https://legat14-online-store.netlify.app/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* TypeScript
-* Webpack
-* SASS
-* ESLint with eslint recommended configuration
+
+- HTML
+- TypeScript
+- Webpack
+- SASS
+- ESLint with eslint recommended configuration
 </details>
 
 <details>
@@ -73,20 +105,23 @@ Developer
 [Deploy](https://legat-14-async-race.netlify.app/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* TypeScript
-* Webpack
-* SASS
-* ESLint with airbnb configuration
+
+- HTML
+- TypeScript
+- Webpack
+- SASS
+- ESLint with airbnb configuration
 </details>
 
 <details>
   <summary>Movie App</summary>
 
 ### Movie App
+
 ![Movie App](https://github.com/Legat14/Legat14/blob/main/img/movie_app_screenshot.jpg?raw=true)
 
 [Repo](https://github.com/Legat14/movie_app)
@@ -94,12 +129,14 @@ Developer
 [Deploy](https://legat14.github.io/movie_app/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
-* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 </details>
 
 <details>
@@ -114,12 +151,14 @@ Developer
 [Deploy](https://legat14.github.io/sea_fight/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
-* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 </details>
 
 <details>
@@ -134,12 +173,14 @@ Developer
 [Deploy](https://legat14.github.io/virtual_keyboard/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* SCSS
-* JavaScript
+
+- HTML
+- SCSS
+- JavaScript
 </details>
 
 <details>
@@ -154,12 +195,14 @@ Developer
 [Deploy](https://legat14.github.io/JS_30_Harp/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
-* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 </details>
 
 <details>
@@ -174,12 +217,14 @@ Developer
 [Deploy](https://legat14.github.io/portfolio/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
-* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 </details>
 
 <details>
@@ -194,12 +239,14 @@ Developer
 [Deploy](https://rolling-scopes-school.github.io/legat14-JSFE2022Q1/shelter/pages/main/index.html)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
-* JavaScript
+
+- HTML
+- CSS
+- JavaScript
 </details>
 
 <details>
@@ -214,9 +261,11 @@ Developer
 [Deploy](https://legat14.github.io/cssMemSlider/)
 
 #### Role:
+
 Developer
 
 #### Technology:
-* HTML
-* CSS
+
+- HTML
+- CSS
 </details>
