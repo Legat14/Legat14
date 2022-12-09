@@ -5,12 +5,14 @@ My name is Ivan and this is my GitHub profile.
 ## IT Education
 
 - November 2021 - February 2022 - **Rolling Scopes School Front-End Stage 0**
+  [(JS/FE Pre-School)](https://rs.school/js-stage0/)
   [(JS/FE Pre-School certificate)](https://app.rs.school/certificate/9rfq3x9e)
 - March 2022 - June 2022 - **Rolling Scopes School Front-End Stage 1**
 - June 2022 - September 2022 - **Rolling Scopes School Front-End Stage 2**
+  [(JS/FE)](https://rs.school/js/)
   [(JS/FE certificate)](https://app.rs.school/certificate/8pk8i88z)
   Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-9f97-299fb10eb925)
-- Currently on **Rolling Scopes School React** course
+- October 2022 - December 2022 **Rolling Scopes School React** course
   [(React course)](https://rs.school/react/)
 
 ## My apps
