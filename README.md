@@ -71,6 +71,31 @@ My name is Ivan and this is my GitHub profile.
 - Tone.js
 </details>
 
+<details open="open">
+  <summary>React redux app</summary>
+
+### React redux app
+
+![React redux app](https://github.com/Legat14/Legat14/blob/main/img/react-redux_screenshot.jpg?raw=true)
+
+[Repo](https://github.com/Legat14/react-redux-app)
+
+[Deploy](https://legat14-react-redux.netlify.app/)
+
+#### Role:
+
+- Frontend
+
+#### Technology:
+
+- React
+- Redux
+- TypeScript
+- Webpack
+- SASS
+- ESLint with airbnb configuration
+</details>
+
 <details>
   <summary>Online store</summary>
 
