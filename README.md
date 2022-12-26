@@ -251,6 +251,31 @@ Developer
 ---
 
 <details>
+  <summary>CSS Mem Slider</summary>
+
+### CSS Mem Slider
+
+![CSS Mem Slider](https://github.com/Legat14/Legat14/blob/main/img/css_mem_slider_screenshot.jpg?raw=true)
+
+[Repo](https://github.com/Legat14/cssMemSlider)
+
+[Deploy](https://legat14.github.io/cssMemSlider/)
+
+#### Role:
+
+Developer
+
+#### Technology:
+
+- HTML
+- CSS
+</details>
+
+---
+
+## My Websites
+
+<details>
   <summary>Portfolio (website)</summary>
 
 ### Portfolio (website)
@@ -294,29 +319,6 @@ Developer
 - HTML
 - CSS
 - JavaScript
-</details>
-
----
-
-<details>
-  <summary>CSS Mem Slider</summary>
-
-### CSS Mem Slider
-
-![CSS Mem Slider](https://github.com/Legat14/Legat14/blob/main/img/css_mem_slider_screenshot.jpg?raw=true)
-
-[Repo](https://github.com/Legat14/cssMemSlider)
-
-[Deploy](https://legat14.github.io/cssMemSlider/)
-
-#### Role:
-
-Developer
-
-#### Technology:
-
-- HTML
-- CSS
 </details>
 
 ---
