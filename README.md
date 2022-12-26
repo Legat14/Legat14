@@ -45,6 +45,8 @@ My name is Ivan and this is my GitHub profile.
 - ESLint with airbnb configuration
 </details>
 
+---
+
 <details open="open">
   <summary>Perfect Ear</summary>
 
@@ -71,6 +73,8 @@ My name is Ivan and this is my GitHub profile.
 - Tone.js
 </details>
 
+---
+
 <details open="open">
   <summary>React redux app</summary>
 
@@ -96,6 +100,8 @@ My name is Ivan and this is my GitHub profile.
 - ESLint with airbnb configuration
 </details>
 
+---
+
 <details>
   <summary>Online store</summary>
 
@@ -119,6 +125,8 @@ Developer
 - SASS
 - ESLint with eslint recommended configuration
 </details>
+
+---
 
 <details>
   <summary>Async race</summary>
@@ -144,6 +152,8 @@ Developer
 - ESLint with airbnb configuration
 </details>
 
+---
+
 <details>
   <summary>Movie App</summary>
 
@@ -165,6 +175,8 @@ Developer
 - CSS
 - JavaScript
 </details>
+
+---
 
 <details>
   <summary>Sea Fight</summary>
@@ -188,6 +200,8 @@ Developer
 - JavaScript
 </details>
 
+---
+
 <details>
   <summary>Virtual Keyboard</summary>
 
@@ -209,6 +223,8 @@ Developer
 - SCSS
 - JavaScript
 </details>
+
+---
 
 <details>
   <summary>Harmonica on-line</summary>
@@ -232,6 +248,8 @@ Developer
 - JavaScript
 </details>
 
+---
+
 <details>
   <summary>Portfolio (website)</summary>
 
@@ -253,6 +271,8 @@ Developer
 - CSS
 - JavaScript
 </details>
+
+---
 
 <details>
   <summary>Shelter (website)</summary>
@@ -276,6 +296,8 @@ Developer
 - JavaScript
 </details>
 
+---
+
 <details>
   <summary>CSS Mem Slider</summary>
 
@@ -296,3 +318,5 @@ Developer
 - HTML
 - CSS
 </details>
+
+---
