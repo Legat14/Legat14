@@ -107,7 +107,7 @@ My name is Ivan and this is my GitHub profile.
 
 ### Cat food test task
 
-![Cat food test task](https://drive.google.com/file/d/1VjuCoI6dSo_c6xYcc1sprirkSvb_4czF/view?usp=sharing)
+![Cat food test task](https://github.com/Legat14/Legat14/blob/main/img/cat-food-test-task_screenshot.jpg?raw=true)
 
 [Repo](https://github.com/Legat14/test-task_cat-food)
 
