@@ -103,6 +103,31 @@ My name is Ivan and this is my GitHub profile.
 ---
 
 <details>
+  <summary>Cat food test task</summary>
+
+### Cat food test task
+
+![Cat food test task](https://drive.google.com/file/d/1VjuCoI6dSo_c6xYcc1sprirkSvb_4czF/view?usp=sharing)
+
+[Repo](https://github.com/Legat14/test-task_cat-food)
+
+[Deploy](https://legat14-cat-food-test-task.netlify.app/)
+
+#### Role:
+
+- Frontend
+
+#### Technology:
+
+- React
+- TypeScript
+- Webpack
+- SASS
+</details>
+
+---
+
+<details>
   <summary>Online store</summary>
 
 ### Online store
