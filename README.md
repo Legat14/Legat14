@@ -347,3 +347,5 @@ Developer
 </details>
 
 ---
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Legat14&count_private=true&show_icons=true)
