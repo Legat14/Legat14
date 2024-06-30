@@ -2,18 +2,26 @@
 
 My name is Ivan and this is my GitHub profile.
 
+## IT Work
+
+Since January 2023 - frontend developer at [DigiFabster](https://digifabster.com/).
+
 ## IT Education
 
 - November 2021 - February 2022 - **Rolling Scopes School Front-End Stage 0**
-  [(JS/FE Pre-School)](https://rs.school/js-stage0/)
-  [(JS/FE Pre-School certificate)](https://app.rs.school/certificate/9rfq3x9e)
-- March 2022 - June 2022 - **Rolling Scopes School Front-End Stage 1**
-- June 2022 - September 2022 - **Rolling Scopes School Front-End Stage 2**
-  [(JS/FE)](https://rs.school/js/)
-  [(JS/FE certificate)](https://app.rs.school/certificate/8pk8i88z)
+  [Course](https://rs.school/js-stage0/)
+  [Certificate](https://app.rs.school/certificate/9rfq3x9e)
+- March - June 2022 - **Rolling Scopes School Front-End Stage 1**
+- June - September 2022 - **Rolling Scopes School Front-End Stage 2**
+  [Course](https://rs.school/js/)
+  [Certificate](https://app.rs.school/certificate/8pk8i88z)
   Mentor's feedback in [RS School CV](https://app.rs.school/cv/736afb1d-4f74-4f37-9f97-299fb10eb925)
-- October 2022 - December 2022 **Rolling Scopes School React** course
-  [(React course)](https://rs.school/react/)
+- October - December 2022 **Rolling Scopes School React** course
+  [Course](https://rs.school/react/)
+  [Certificate](https://app.rs.school/certificate/vo61pxuq)
+- March - April 2023  **Rolling Scopes School AWS Fundamentals** course
+  [Course](https://rs.school/courses/aws-fundamentals)
+  [Certificate](https://app.rs.school/certificate/du673x8l)
 
 ## My apps
 
